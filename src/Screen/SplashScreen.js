@@ -4,7 +4,7 @@ import {View, Text} from 'react-native';
 const SplashScreen = () => {
   return (
     <View>
-      <Text>Hello</Text>
+      <Text>SplashScreen</Text>
     </View>
   );
 };
